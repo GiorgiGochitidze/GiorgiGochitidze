@@ -2,7 +2,7 @@ Hello I'm Giorgi Gochitidze 🖐️
 
 <h1>About Me</h1>
 
-<p>Hi, I'm Giorgi, a MERN Stack Developer with 1.6 years of programming experience. Proficient in MERN Stack (MongoDB, ExpressJS, React, NodeJS), React, JavaScript, HTML, CSS, Python, NodeJS, Netlify, Git, Github, Render.com(for hosting backend server), Photoshop CS6, MongoDB(NoSQL database), Framer Motion(for making beauiful animations) AOS(for making animations on scroll), Cloudinary(cloud service for uploading images when deploying site ), I'm good in solving complex problems efficiently, my main focus is MERN Stack development Beyond coding, I attend courses to enhance my skills. I'm eager to collaborate with experienced developers and designers to bring innovative web projects to life. Despite a short project list, my determination to make a significant impact in web development is unwavering.</p>
+<p>Hi, I'm Giorgi, a MERN Stack Developer with 2 years of programming experience. Proficient in MERN Stack (MongoDB, ExpressJS, React, NodeJS), React, JavaScript, HTML, CSS, Python, NodeJS, Netlify, Git, Github, Render.com(for hosting backend server), Photoshop CS6, MongoDB(NoSQL database), Framer Motion(for making beauiful animations) AOS(for making animations on scroll), Cloudinary(cloud service for uploading images when deploying site ), I'm good in solving complex problems efficiently, my main focus is MERN Stack development Beyond coding, I attend courses to enhance my skills. I'm eager to collaborate with experienced developers and designers to bring innovative web projects to life. Despite a short project list, my determination to make a significant impact in web development is unwavering.</p>
 
 Skills:
 <p>
