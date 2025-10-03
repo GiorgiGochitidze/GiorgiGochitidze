@@ -2,7 +2,7 @@ Hello I'm Giorgi Gochitidze 🖐️
 
 <h1>About Me</h1>
 
-<p>Hi, I'm Giorgi, a MERN Stack Developer with 2 years of programming experience. Proficient in MERN Stack (MongoDB, ExpressJS, React, NodeJS), React, JavaScript, HTML, CSS, Python, NodeJS, Netlify, Git, Github, Render.com(for hosting backend server), Photoshop CS6, MongoDB(NoSQL database), Framer Motion(for making beauiful animations) AOS(for making animations on scroll), Cloudinary(cloud service for uploading images when deploying site ), I'm good in solving complex problems efficiently, my main focus is MERN Stack development Beyond coding, I attend courses to enhance my skills. I'm eager to collaborate with experienced developers and designers to bring innovative web projects to life. Despite a short project list, my determination to make a significant impact in web development is unwavering.</p>
+<p>Hello, I'm Giorgi Gochitidze, a Full-Stack Developer Passionate about turning ideas into fast, functional and user-friendly web applications. With experience in NextJs, React, NodeJs, and TypeScript, I build modern web apps from concept to deployment. I've delivered multiple projects focusing on clean code, responsive design, and smooth user experiences. I thrive on solving complex problems and constantly learning new technologies from programming and AI agent automation to business logic and soft skills. I'm always excited to collaborate on projects that make a real impact.</p>
 
 Skills:
 <p>
@@ -31,8 +31,11 @@ Skills:
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/>
   <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
 </p>
 
-My CV site link where you can see other information about me and see my projects:
+My CV website where you can see other information about me and see my projects:
 https://giorgig.netlify.app/
 
