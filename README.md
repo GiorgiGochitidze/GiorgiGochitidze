@@ -48,14 +48,12 @@ Repo](https://github.com/GiorgiGochitidze/bookline-server)**
 
 ## Other Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| **[Sentinel](https://real-time-dashboard-seven.vercel.app/)** | Real-time performance monitor with Redis-backed queues
-for live status/alert logging | Next.js, NestJS, Redis, WebSockets |
-| **[Wallstreet](https://wstreet.netlify.app/en)** | Full-stack food shop with an admin panel for order management (real
-client project) | Next.js, Redux, MongoDB, Cloudinary |
-| **[Linkly](https://url-shortener-three-teal.vercel.app/)** | URL shortener with click tracking and active/inactive
-link status | Next.js, MongoDB, TypeScript |
+| Project | Description |
+|---|---|
+| **[Sentinel](https://real-time-dashboard-seven.vercel.app/)** | Real-time performance monitor with Redis-backed queues for live status/alert logging |
+| **[Wallstreet](https://wstreet.netlify.app/en)** | Full-stack food shop with an admin panel for order management (real client project) |
+| **[Linkly](https://url-shortener-three-teal.vercel.app/)** | URL shortener with click tracking and active/inactive link status |
+
 
 See more details and case studies on my **[portfolio site](https://giorgig.netlify.app/)**.
 
