@@ -1,41 +1,119 @@
-Hello I'm Giorgi Gochitidze 🖐️
+<h1 align="left">Hi, I'm Giorgi Gochitidze 👋</h1>
+<h3 align="left">Full-Stack Developer | MERN · TypeScript · NestJS</h3>
 
-<h1>About Me</h1>
-
-<p>Hello, I'm Giorgi Gochitidze, a Full-Stack Developer Passionate about turning ideas into fast, functional and user-friendly web applications. With experience in NextJs, React, NodeJs, and TypeScript, I build modern web apps from concept to deployment. I've delivered multiple projects focusing on clean code, responsive design, and smooth user experiences. I thrive on solving complex problems and constantly learning new technologies from programming and AI agent automation to business logic and soft skills. I'm always excited to collaborate on projects that make a real impact.</p>
-
-Skills:
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/MERN-lawngreen?style=for-the-badge&logo=MERN&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/AOS-purple?style=for-the-badge&logo=AOS&logoColor=white" />
-  <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
-  <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Figma-34495e?style=for-the-badge&logo=Figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render.com-0077B5?style=for-the-badge&logo=Render&logoColor=white" />
-  <img src="https://img.shields.io/badge/ReactIcons-61DAFB?style=for-the-badge&logo=ReactIcons&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=Cloudinary&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/>
-  <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E"/>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+<p align="left">
+  <a href="https://giorgig.netlify.app/"><img
+      src="https://shieldcn.dev/badge/Portfolio-giorgig.netlify.app-blue.svg?logo=netlify&variant=branded" /></a>
+  <a href="http://www.linkedin.com/in/giorgi-gochitidze-4839b9308"><img
+      src="https://shieldcn.dev/badge/LinkedIn-Connect-blue.svg?logo=linkedin&variant=branded" /></a>
+  <a href="mailto:giorgigochitidze555@gmail.com"><img
+      src="https://shieldcn.dev/badge/Email-Contact%20Me-red.svg?logo=gmail&variant=branded" /></a>
 </p>
 
-My CV website where you can see other information about me and see my projects:
-https://giorgig.netlify.app/
+## About Me
 
+I'm a full-stack developer with 3 years of experience building web applications end to end - from Next.js/React front
+ends to NestJS/Node back ends. I care about clean architecture, practical problem-solving, and increasingly, using AI
+tools (agents, automation, n8n workflows) to build smarter and faster.
+
+I independently designed and shipped **Bookline**, a full booking platform for beauty practitioners, to deepen my
+understanding of real-world product architecture and business logic, alongside several freelance and personal projects
+currently in production.
+
+- Currently building a **Multi-Tenant Ordering & Management System** (in progress)
+- Currently learning advanced **React** at SkillWill College
+- Exploring **AI agent automation** and workflow tooling (n8n, AI chatbots)
+- Reach me at **giorgigochitidze555@gmail.com**
+
+## Featured Project
+
+### [Bookline - Booking Platform for Beauty & Wellness Salons](https://booklinege.vercel.app/)
+Full-stack booking platform built and deployed for beauty practitioners in Georgia, eliminating manual DM scheduling
+with a public booking link and notification system. Includes full auth and a business admin panel for managing services,
+working hours, staff, and bookings.
+
+<p>
+  <img src="https://shieldcn.dev/badge/Next.js-black.svg?logo=nextdotjs&variant=branded" />
+  <img src="https://shieldcn.dev/badge/TypeScript-blue.svg?logo=typescript&variant=branded" />
+  <img src="https://shieldcn.dev/badge/Tailwind%20CSS-cyan.svg?logo=tailwindcss&variant=branded" />
+  <img src="https://shieldcn.dev/badge/NestJS-red.svg?logo=nestjs&variant=branded" />
+  <img src="https://shieldcn.dev/badge/PostgreSQL-blue.svg?logo=postgresql&variant=branded" />
+  <img src="https://shieldcn.dev/badge/WebSockets-black.svg?logo=socketdotio&variant=branded" />
+  <img src="https://shieldcn.dev/badge/TypeORM-red.svg?logo=typeorm&variant=branded" />
+</p>
+
+**[Live Demo](https://booklinege.vercel.app/)** · **[Front-End
+Repo](https://github.com/GiorgiGochitidze/booking-and-appointment-system)** · **[Back-End
+Repo](https://github.com/GiorgiGochitidze/bookline-server)**
+
+## Other Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| **[Sentinel](https://real-time-dashboard-seven.vercel.app/)** | Real-time performance monitor with Redis-backed queues
+for live status/alert logging | Next.js, NestJS, Redis, WebSockets |
+| **[Wallstreet](https://wstreet.netlify.app/en)** | Full-stack food shop with an admin panel for order management (real
+client project) | Next.js, Redux, MongoDB, Cloudinary |
+| **[Linkly](https://url-shortener-three-teal.vercel.app/)** | URL shortener with click tracking and active/inactive
+link status | Next.js, MongoDB, TypeScript |
+
+See more details and case studies on my **[portfolio site](https://giorgig.netlify.app/)**.
+
+## Tech Stack
+
+**Frontend**
+<p>
+  <img src="https://shieldcn.dev/badge/React-cyan.svg?logo=react&variant=branded" />
+  <img src="https://shieldcn.dev/badge/Next.js-black.svg?logo=nextdotjs&variant=branded" />
+  <img src="https://shieldcn.dev/badge/TypeScript-blue.svg?logo=typescript&variant=branded" />
+  <img src="https://shieldcn.dev/badge/Redux%20Toolkit-purple.svg?logo=redux&variant=branded" />
+  <img src="https://shieldcn.dev/badge/Tailwind%20CSS-cyan.svg?logo=tailwindcss&variant=branded" />
+  <img src="https://shieldcn.dev/badge/HTML5-orange.svg?logo=html5&variant=branded" />
+  <img src="https://shieldcn.dev/badge/CSS3-blue.svg?logo=css3&variant=branded" />
+</p>
+
+**Backend**
+<p>
+  <img src="https://shieldcn.dev/badge/Node.js-green.svg?logo=nodedotjs&variant=branded" />
+  <img src="https://shieldcn.dev/badge/Express-black.svg?logo=express&variant=branded" />
+  <img src="https://shieldcn.dev/badge/NestJS-red.svg?logo=nestjs&variant=branded" />
+  <img src="https://shieldcn.dev/badge/PostgreSQL-blue.svg?logo=postgresql&variant=branded" />
+  <img src="https://shieldcn.dev/badge/TypeORM-red.svg?logo=typeorm&variant=branded" />
+  <img src="https://shieldcn.dev/badge/MongoDB-green.svg?logo=mongodb&variant=branded" />
+  <img src="https://shieldcn.dev/badge/Redis-red.svg?logo=redis&variant=branded" />
+  <img src="https://shieldcn.dev/badge/Python-yellow.svg?logo=python&variant=branded" />
+</p>
+
+**Tools, DevOps & AI**
+<p>
+  <img src="https://shieldcn.dev/badge/Git-orange.svg?logo=git&variant=branded" />
+  <img src="https://shieldcn.dev/badge/GitHub-black.svg?logo=github&variant=branded" />
+  <img src="https://shieldcn.dev/badge/Netlify-cyan.svg?logo=netlify&variant=branded" />
+  <img src="https://shieldcn.dev/badge/Render-blue.svg?logo=render&variant=branded" />
+  <img src="https://shieldcn.dev/badge/Cloudinary-blue.svg?logo=cloudinary&variant=branded" />
+  <img src="https://shieldcn.dev/badge/n8n-red.svg?logo=n8n&variant=branded" />
+  <img src="https://shieldcn.dev/badge/VS%20Code-blue.svg?logo=visualstudiocode&variant=branded" />
+  <img src="https://shieldcn.dev/badge/Figma-black.svg?logo=figma&variant=branded" />
+</p>
+
+## GitHub Stats
+<div style="display: flex">
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=GiorgiGochitidze&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img height="165"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=GiorgiGochitidze&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GiorgiGochitidze&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
+</div>
+
+## Languages
+
+Georgian (Native) · English (B1-B2)
+
+<p align="center">
+  <i>Always open to collaborating on projects that make a real impact - let's connect!</i>
+</p>
