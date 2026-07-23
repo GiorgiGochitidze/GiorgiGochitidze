@@ -87,6 +87,7 @@ See more details and case studies on my **[portfolio site](https://giorgig.netli
   <img src="https://shieldcn.dev/badge/Git-orange.svg?logo=git&variant=branded" />
   <img src="https://shieldcn.dev/badge/GitHub-black.svg?logo=github&variant=branded" />
   <img src="https://shieldcn.dev/badge/Netlify-cyan.svg?logo=netlify&variant=branded" />
+  <img src="https://shieldcn.dev/badge/Vercel-black.svg?logo=vercel&variant=branded" />
   <img src="https://shieldcn.dev/badge/Render-blue.svg?logo=render&variant=branded" />
   <img src="https://shieldcn.dev/badge/Cloudinary-blue.svg?logo=cloudinary&variant=branded" />
   <img src="https://shieldcn.dev/badge/n8n-red.svg?logo=n8n&variant=branded" />
