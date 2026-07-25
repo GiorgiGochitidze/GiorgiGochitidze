@@ -40,6 +40,7 @@ working hours, staff, and bookings.
   <img src="https://shieldcn.dev/badge/PostgreSQL-blue.svg?logo=postgresql&variant=branded" />
   <img src="https://shieldcn.dev/badge/WebSockets-black.svg?logo=socketdotio&variant=branded" />
   <img src="https://shieldcn.dev/badge/TypeORM-red.svg?logo=typeorm&variant=branded" />
+  <img src="https://shieldcn.dev/badge/Swagger-green.svg?logo=swagger&variant=branded" />
 </p>
 
 **[Live Demo](https://booklinege.vercel.app/)** · **[Front-End
@@ -70,19 +71,19 @@ See more details and case studies on my **[portfolio site](https://giorgig.netli
   <img src="https://shieldcn.dev/badge/CSS3-blue.svg?logo=css3&variant=branded" />
 </p>
 
-**Backend**
+**Backend & API Architecture**
 <p>
   <img src="https://shieldcn.dev/badge/Node.js-green.svg?logo=nodedotjs&variant=branded" />
   <img src="https://shieldcn.dev/badge/Express-black.svg?logo=express&variant=branded" />
   <img src="https://shieldcn.dev/badge/NestJS-red.svg?logo=nestjs&variant=branded" />
+  <img src="https://shieldcn.dev/badge/Swagger-green.svg?logo=swagger&variant=branded" />
   <img src="https://shieldcn.dev/badge/PostgreSQL-blue.svg?logo=postgresql&variant=branded" />
   <img src="https://shieldcn.dev/badge/TypeORM-red.svg?logo=typeorm&variant=branded" />
   <img src="https://shieldcn.dev/badge/MongoDB-green.svg?logo=mongodb&variant=branded" />
   <img src="https://shieldcn.dev/badge/Redis-red.svg?logo=redis&variant=branded" />
-  <img src="https://shieldcn.dev/badge/Python-yellow.svg?logo=python&variant=branded" />
 </p>
 
-**Tools, DevOps & AI**
+**Tools & DevOps**
 <p>
   <img src="https://shieldcn.dev/badge/Git-orange.svg?logo=git&variant=branded" />
   <img src="https://shieldcn.dev/badge/GitHub-black.svg?logo=github&variant=branded" />
@@ -94,6 +95,14 @@ See more details and case studies on my **[portfolio site](https://giorgig.netli
   <img src="https://shieldcn.dev/badge/VS%20Code-blue.svg?logo=visualstudiocode&variant=branded" />
   <img src="https://shieldcn.dev/badge/Figma-black.svg?logo=figma&variant=branded" />
 </p>
+
+**Project Management & Communication**
+<p>
+  <img src="https://shieldcn.dev/badge/ClickUp.svg?logo=clickup&variant=branded" />
+  <img src="https://shieldcn.dev/badge/Slack-purple.svg?logo=slack&variant=branded" />
+</p>
+
+---
 
 ## GitHub Stats
 <div style="display: flex">
