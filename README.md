@@ -107,8 +107,7 @@ See more details and case studies on my **[portfolio site](https://giorgig.netli
 ## GitHub Stats
 <div style="display: flex">
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=GiorgiGochitidze&theme=tokyonight&hide_border=true" />
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img height="165"
