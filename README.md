@@ -71,12 +71,13 @@ See more details and case studies on my **[portfolio site](https://giorgig.netli
   <img src="https://shieldcn.dev/badge/CSS3-blue.svg?logo=css3&variant=branded" />
 </p>
 
-**Backend & API Architecture**
+**Backend, API Architecture & Testing**
 <p>
   <img src="https://shieldcn.dev/badge/Node.js-green.svg?logo=nodedotjs&variant=branded" />
   <img src="https://shieldcn.dev/badge/Express-black.svg?logo=express&variant=branded" />
   <img src="https://shieldcn.dev/badge/NestJS-red.svg?logo=nestjs&variant=branded" />
   <img src="https://shieldcn.dev/badge/Swagger-green.svg?logo=swagger&variant=branded" />
+  <img src="https://shieldcn.dev/badge/Jest-red.svg?logo=jest&variant=branded" />
   <img src="https://shieldcn.dev/badge/PostgreSQL-blue.svg?logo=postgresql&variant=branded" />
   <img src="https://shieldcn.dev/badge/TypeORM-red.svg?logo=typeorm&variant=branded" />
   <img src="https://shieldcn.dev/badge/MongoDB-green.svg?logo=mongodb&variant=branded" />
