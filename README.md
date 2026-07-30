@@ -2,11 +2,11 @@
 <h3 align="left">Full-Stack Developer | MERN · TypeScript · NestJS</h3>
 
 <p align="left">
-  <a href="https://giorgig.netlify.app/"><img
+  <a href="https://giorgig.netlify.app/" target="_blank" rel="noopener noreferrer"><img
       src="https://shieldcn.dev/badge/Portfolio-giorgig.netlify.app-blue.svg?logo=netlify&variant=branded" /></a>
-  <a href="http://www.linkedin.com/in/giorgi-gochitidze-4839b9308"><img
+  <a href="http://www.linkedin.com/in/giorgi-gochitidze-4839b9308" target="_blank" rel="noopener noreferrer"><img
       src="https://shieldcn.dev/badge/LinkedIn-Connect-blue.svg?logo=linkedin&variant=branded" /></a>
-  <a href="mailto:giorgigochitidze555@gmail.com"><img
+  <a href="mailto:giorgigochitidze555@gmail.com" target="_blank" rel="noopener noreferrer"><img
       src="https://shieldcn.dev/badge/Email-Contact%20Me-red.svg?logo=gmail&variant=branded" /></a>
 </p>
 
@@ -16,16 +16,16 @@ I'm a full-stack developer with 3 years of experience building web applications 
 ends to NestJS/Node back ends. I care about clean architecture, practical problem-solving, and increasingly, using AI
 tools (agents, automation, n8n workflows) to build smarter and faster.
 
-I independently designed and shipped **Bookline**, a full booking platform for beauty practitioners, to deepen my
-understanding of real-world product architecture and business logic, alongside several freelance and personal projects
-currently in production.
+I independently designed and shipped **Bookline**, a full booking platform for beauty practitioners, and
+**Multi-Tenant Inventory & Order System**, a production-grade backend exploring multi-tenancy, transactional
+integrity, and relational database design, to deepen my understanding of real-world product architecture and
+business logic.
 
-- Currently building a **Multi-Tenant Ordering & Management System** (in progress)
 - Currently learning advanced **React** at SkillWill College
 - Exploring **AI agent automation** and workflow tooling (n8n, AI chatbots)
 - Reach me at **giorgigochitidze555@gmail.com**
 
-## Featured Project
+## Featured Projects
 
 ### [Bookline - Booking Platform for Beauty & Wellness Salons](https://booklinege.vercel.app/)
 Full-stack booking platform built and deployed for beauty practitioners in Georgia, eliminating manual DM scheduling
@@ -47,6 +47,22 @@ working hours, staff, and bookings.
 Repo](https://github.com/GiorgiGochitidze/booking-and-appointment-system)** · **[Back-End
 Repo](https://github.com/GiorgiGochitidze/bookline-server)**
 
+### [Multi-Tenant Inventory & Order System](https://multi-tenant-ge.vercel.app/)
+Production-grade multi-tenant backend where isolated store accounts manage products, inventory, and orders with strict
+tenant data isolation. Features a transactional checkout engine using manual TypeORM `QueryRunner` transactions —
+verifying stock, deducting inventory, and creating orders atomically, with full rollback on any failure.
+
+<p>
+  <img src="https://shieldcn.dev/badge/NestJS-red.svg?logo=nestjs&variant=branded" />
+  <img src="https://shieldcn.dev/badge/TypeScript-blue.svg?logo=typescript&variant=branded" />
+  <img src="https://shieldcn.dev/badge/PostgreSQL-blue.svg?logo=postgresql&variant=branded" />
+  <img src="https://shieldcn.dev/badge/TypeORM-red.svg?logo=typeorm&variant=branded" />
+  <img src="https://shieldcn.dev/badge/Swagger-green.svg?logo=swagger&variant=branded" />
+  <img src="https://shieldcn.dev/badge/Jest-red.svg?logo=jest&variant=branded" />
+</p>
+
+**[Live Demo](https://multi-tenant-ge.vercel.app/)**
+
 ## Other Projects
 
 | Project | Description |
@@ -54,7 +70,6 @@ Repo](https://github.com/GiorgiGochitidze/bookline-server)**
 | **[Sentinel](https://real-time-dashboard-seven.vercel.app/)** | Real-time performance monitor with Redis-backed queues for live status/alert logging |
 | **[Wallstreet](https://wstreet.netlify.app/en)** | Full-stack food shop with an admin panel for order management (real client project) |
 | **[Linkly](https://url-shortener-three-teal.vercel.app/)** | URL shortener with click tracking and active/inactive link status |
-
 
 See more details and case studies on my **[portfolio site](https://giorgig.netlify.app/)**.
 
