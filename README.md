@@ -61,7 +61,9 @@ verifying stock, deducting inventory, and creating orders atomically, with full 
   <img src="https://shieldcn.dev/badge/Jest-red.svg?logo=jest&variant=branded" />
 </p>
 
-**[Live Demo](https://multi-tenant-ge.vercel.app/)**
+**[Live Demo](https://multi-tenant-ge.vercel.app/)** 
+**[Front-End Repo](https://github.com/GiorgiGochitidze/multi-tenant)**
+**[Back-End Repo](https://github.com/GiorgiGochitidze/multi-tenant-inventory)**
 
 ## Other Projects
 
