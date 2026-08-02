@@ -17,7 +17,7 @@ ends to NestJS/Node back ends. I care about clean architecture, practical proble
 tools (agents, automation, n8n workflows) to build smarter and faster.
 
 I independently designed and shipped **Bookline**, a full booking platform for beauty practitioners, and
-**Multi-Tenant Inventory & Order System**, a production-grade backend exploring multi-tenancy, transactional
+**Multi-Tenant Inventory & Order System**, a production-grade exploring multi-tenancy, transactional
 integrity, and relational database design, to deepen my understanding of real-world product architecture and
 business logic.
 
@@ -48,7 +48,7 @@ Repo](https://github.com/GiorgiGochitidze/booking-and-appointment-system)** · *
 Repo](https://github.com/GiorgiGochitidze/bookline-server)**
 
 ### [Multi-Tenant Inventory & Order System](https://multi-tenant-ge.vercel.app/)
-Production-grade multi-tenant backend where isolated store accounts manage products, inventory, and orders with strict
+Production-grade multi-tenant where isolated store accounts manage products, inventory, and orders with strict
 tenant data isolation. Features a transactional checkout engine using manual TypeORM `QueryRunner` transactions —
 verifying stock, deducting inventory, and creating orders atomically, with full rollback on any failure.
 
