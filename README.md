@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Giorgi Gochitidze 👋</h1>
 <h3 align="left">Full-Stack Developer | MERN · TypeScript · NestJS</h3>
-
+ 
 <p align="left">
   <a href="https://giorgig.netlify.app/" target="_blank" rel="noopener noreferrer"><img
       src="https://shieldcn.dev/badge/Portfolio-giorgig.netlify.app-blue.svg?logo=netlify&variant=branded" /></a>
